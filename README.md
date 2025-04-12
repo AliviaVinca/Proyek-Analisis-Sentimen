@@ -1,2 +1,2 @@
 # Proyek-Analisis-Sentimen
-Project Analisis Sentimen pada Aplikasi Shopee di Google Playstore
+Project Analisis Sentimen pada Aplikasi MyTelkomsel di Google Playstore
